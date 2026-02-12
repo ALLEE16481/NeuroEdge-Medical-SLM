@@ -12,7 +12,7 @@ Offline-First Medical AI for Android
 * **Medical Domain:** Fine-tuned on PubMedQA for accurate diagnostic support.
 
 ##  Downloads
-* **[Download the App (APK)](./app/ChatterUI_v0.8.9-beta7.apk)**
+* **[Download the App (APK)](https://github.com/ALLEE16481/NeuroEdge-Medical-SLM/releases/download/v1.0.0/ChatterUI_v0.8.9-beta7.apk)**
 * **[Download the Model (GGUF)](LINK_TO_YOUR_GOOGLE_DRIVE_OR_HUGGINGFACE)**
 
 ##  Tech Stack
