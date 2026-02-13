@@ -13,7 +13,7 @@ Offline-First Medical AI for Android
 
 ##  Downloads
 * **[Download the App (APK)](https://github.com/ALLEE16481/NeuroEdge-Medical-SLM/releases/download/v1.0.0/ChatterUI_v0.8.9-beta7.apk)**
-* **[Download the Model (GGUF)](LINK_TO_YOUR_GOOGLE_DRIVE_OR_HUGGINGFACE)**
+* **[Download the Model (GGUF)](https://github.com/ALLEE16481/NeuroEdge-Medical-SLM/releases/download/v1.0.0/neuroedge-medical-q4_k_m.gguf)**
 
 ##  Tech Stack
 * **Base Model:** Qwen2.5-1.5B-Instruct
